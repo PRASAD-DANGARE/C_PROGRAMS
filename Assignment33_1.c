@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////
 //
 // Function Name :  SearchFirstOcc()  
-// Description   :  Find First Occurence In Data Structure
+// Description   :  Search First Occurrence Of Particular Element From Singly Linear Linked List
 // Input         :  Integer
 // Output        :  Integer
 // Author        :  Prasad Dangare
